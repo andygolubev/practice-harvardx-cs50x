@@ -1,6 +1,1 @@
-# lessons
-test
-test from idea
-
-
-DONE =)))))))
+CODE from cs50 course
